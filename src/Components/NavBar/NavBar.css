@@ -1,0 +1,24 @@
+
+.NavBarHeader {
+    background-color: #05386B;
+    height: 10vh;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-left: 2vh;
+}
+
+.CreateTask {
+    margin-left: 5vh;
+    background-color: #36B37E;
+    color: #FFF;
+    border-color: #006644;
+    border-radius: 1vh;
+    min-width: 13vh;
+    display: flex;
+    justify-content: center;
+}
+
+.NavBarHeaderText {
+    margin: 0;
+}
